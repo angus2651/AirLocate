@@ -1,2 +1,1 @@
-
-Because Apple Only update to iOS 7 , So I fix bugs and update to iOS 9.
+Download source code from apple and fix Bugs which cannot run in iOS 9.2.
